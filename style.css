@@ -13,3 +13,10 @@
     align-items: center;
     text-align: center;
 }
+.lure{
+    padding: 2px 0px;
+    border: 2px solid whitesmoke;
+    box-shadow: 3px 3px 5px gray, 3px 3px 5px gray;
+    width: 100%;
+    display: flex;
+}
