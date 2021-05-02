@@ -1,11 +1,15 @@
 .auto{
-    background-image: url(/pictures/lynda-hinton--wfDOtEqrJw-unsplash.jpg);
+    background-image:url(/pictures/roger-starnes-sr-BZ-BVdl8N1E-unsplash.jpg);
     height: 350px;
     width: 100%;
-    background-repeat: no-repeat;
+    background-repeat: ;
     background-size: cover;
     box-sizing: border-box;
     padding: 20px 20px;
     color: white;
     font-size: 20px;
+}
+.auto2{
+    align-items: center;
+    text-align: center;
 }
