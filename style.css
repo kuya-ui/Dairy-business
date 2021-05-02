@@ -13,10 +13,16 @@
     align-items: center;
     text-align: center;
 }
+.pt1{
+    color: black;
+    font-size: medium;
+    font-weight: bolder;
+    font-size: x-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: initial;
+}
 .lure{
-    padding: 2px 0px;
-    border: 2px solid whitesmoke;
-    box-shadow: 3px 3px 5px gray, 3px 3px 5px gray;
-    width: 100%;
-    display: flex;
+    border-width: initial;
+    border-style: dotted;
+    border-color: red;
 }
