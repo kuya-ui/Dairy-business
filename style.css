@@ -2,7 +2,7 @@
     background-image:url(/pictures/roger-starnes-sr-BZ-BVdl8N1E-unsplash.jpg);
     height: 350px;
     width: 100%;
-    background-repeat: ;
+    background-repeat:no-repeat;
     background-size: cover;
     box-sizing: border-box;
     padding: 20px 20px;
@@ -21,8 +21,16 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-style: initial;
 }
-.lure{
-    border-width: initial;
-    border-style: dotted;
-    border-color: red;
+.motive{
+    display: flex;
+    padding: 2px;
+    border: 2px solid whitesmoke;
+    box-shadow: 3px 3px 5px gray, 3px 3px 5px gray;
+    justify-content: space-around
 }
+.lure{
+    height: 300px;
+    width: 300px;
+}
+
+
