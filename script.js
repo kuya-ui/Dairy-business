@@ -4,5 +4,9 @@ var leapyear=[
     for (i=0 ;i<monlength; i++){
         var sum=day[i] *days;
         document.getElementById('monthly')= 'Your income for ' + mon[i] +  ' is  Ksh' + sum;
+        function displayDetails(){
+            let total = totalProduction();
+            let price = 45;
     }
 ]
+
