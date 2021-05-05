@@ -5,7 +5,15 @@ const shedC = 486
 const shedD = 572
 var liters =pershade;
 var items = document
+function tto(a,b,c,d){
+    return a+b+c+d;
+}
+total(510,308,486,572)
+document.write("The total output for all shades is"+ tto (510,308,486,572)+"litres"+"<br>")
+document.write("+" "<br" "+"<br>);
 
+var get=document.getElementById("average")
+var income=function totalIncome(price,litres,time)
 var leapyear=[
     month=["january","february","march","april","may","june","july","agust","september","october","november","december"]
     days =[31,29,31,30,31,30,31,31,30,31,30,31]
