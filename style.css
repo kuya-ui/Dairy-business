@@ -35,6 +35,9 @@
 .lure{
     height: 300px;
     width: 300px;
+    display: flex;
+    padding: 2px 0px;
+    text-align: left;
 }
 .images{
     height: 100px;
@@ -42,6 +45,7 @@
     display: flex;
     margin: auto;
     width: 100px;
+    background-color: gray;
 }
 .milk{
     text-align:left;
@@ -51,6 +55,11 @@
 .income{
     color: blue;
     background-color: gray;
+}
+.smoky{
+    display: flex;
+    padding: 2px 0px;
+    text-align: left;
 }
 
 
