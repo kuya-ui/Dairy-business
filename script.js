@@ -1,3 +1,10 @@
+//pr0duction per 
+const shedA = 510
+const shedB = 308
+const shedC = 486
+const shedD = 572
+var liters per shade
+var items = document.
 var leapyear=[
     month=["january","february","march","april","may","june","july","agust","september","october","november","december"]
     days=[31,29,31,30,31,30,31,31,30,31,30,31]
